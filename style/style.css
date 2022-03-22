@@ -17,7 +17,7 @@ html { background-color: rgb(215, 230, 255); }
 #d21 {
     background-color: rgb(255, 255, 255);
     display:flex;
-    height: 1800px;
+    height: 2000px;
     width: 120%;
     flex-direction: row;
     align-items:flex-start;
@@ -60,7 +60,7 @@ html { background-color: rgb(215, 230, 255); }
     left: 100px;
     top:-50px;
     width: 344px;
-    height: 1900px;
+    height: 2100px;
     align-items:flex-start;
     justify-content:flex-start;    
 }
@@ -81,7 +81,7 @@ html { background-color: rgb(215, 230, 255); }
     position: relative;
     top: 70px;
     left: 50px;
-    height: 1800px;
+    height: 2000px;
     width: 250px;
     flex-direction:column;
     align-items:flex-start;
